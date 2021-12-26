@@ -5,6 +5,10 @@ Some new biomes
 
 Mod does not on it's own work, unless new plants and trees and soils registered in nodes_nature.
 
+
+Exile_dev_extra.mt = the amidst file used to develop these biomes. Copy paste the file into Amidst > biome.
+
+
 Core code needs:
 
 
